@@ -1,0 +1,24 @@
+seudocode for Total sales c++ program
+     1. Begin
+     2. For main function
+         2.1. initialize variables
+         2.2. Call the getSales function
+         2.3. Call the function to display the function header
+         2.4. Call the searching functions
+     3. For the getSales function
+         3.1. Declare Local variables
+         3.2. Prompt User for input of slip
+         3.3. While user has not entered -1
+             a) Read input
+             b) prompt user for input
+         3.4. make the sales people a maximum of 4 and each sales person has a maximum of 5 slips
+     4. For the header function
+         4.1. columns= sales persons
+         4.2. Rows = particular product
+         4.3. Explain the table below print a message
+         4.4. Maybe display columns
+     5. For the printSales function
+         5.1. Declare and initialize local variables
+         5.2. Loop through each product
+             a) Initialize salesperson's running total to 0 
+             b) Print sales person number
